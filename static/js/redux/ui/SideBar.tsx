@@ -732,7 +732,7 @@ const SideBar = () => {
             }}
           >
             Upload your unofficial transcript (PDF) to update your course history. 
-             When searching for courses, you can instantly check if you've met the prerequisites.
+            When searching for courses, you can instantly check if you've met the prerequisites.
           </p>
         </div>
         <div
